@@ -10,23 +10,23 @@ Dave has been rebranded entirely to [AmSeif](/bots/amseif/README.md), likely mea
 <br>
 
 ## Classifications
-deleted - the bot has been deleted
+`deleted` - the bot has been deleted
 <br>
-development usage - a copy of the bot, used in development before being used in the root bot
+`development usage` - a copy of the bot, used in development before being used in the root bot
 <br>
-internal use only - a custom made bot designed for a specific server in mind
+`internal use only` - a custom made bot designed for a specific server in mind
 <br>
-maintained - the bot is still maintained
+`maintained` - the bot is still maintained
 <br>
-offline - the bot is offline
+`offline` - the bot is offline
 <br>
-online - the bot is online and still maintained
+`online` - the bot is online and still maintained
 <br>
-permanently shutdown - the bot has been permanently shutdown as stated by its owner
+`permanently shutdown` - the bot has been permanently shutdown as stated by its owner
 <br>
-privated - the bot is a private bot and cannot be authorized for public use
+`privated` - the bot is a private bot and cannot be authorized for public use
 <br>
-project bot - the bot is likely a one-time project and wasn't meant to be used
+`project bot` - the bot is likely a one-time project and wasn't meant to be used
 
 ## Bot Index (55)
 [AIM-120C](/bots/aim-120c/README.md) - *offline, was a project bot*
@@ -51,9 +51,9 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 <br>
 [Autonomous](/bots/autonomous/README.md) - *unknown, permanently shutdown*
 <br>
-[Bot in Gleam](/bots/botingleam/README.md) - *offline, maintained, likely a project bot*
+[Bot in Gleam](/bots/botingleam/README.md) - *offline, maintained, likely a project bot* - ***wiki page complete***
 <br>
-[CivilityAI](/bots/civilityai/README.md) - *online*
+[CivilityAI](/bots/civilityai/README.md) - *online* - ***wiki page complete***
 <br>
 [Codewave Utilities](/bots/codewaveutilities/README.md) - *permanently shutdown, internal usage only*
 <br>
@@ -123,7 +123,7 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 <br>
 [ReBot](/bots/rebot/README.md) - *permanently shutdown*
 <br>
-[Roboto](/bots/roboto/README.md) - *permanently shutdown*
+[Roboto](/bots/roboto/README.md) - *permanently shutdown* - ***wiki page complete***
 <br>
 [RSS Feed](/bots/rssfeed/README.md) - *temporarily offline, reason is unknown*
 <br>
@@ -131,7 +131,7 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 <br>
 [Securer](/bots/securer/README.md) - *permanently shutdown*
 <br>
-[Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md) - *unknown, likely deleted*
+[Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md) - *unknown, likely deleted* - ***wiki page complete***
 <br>
 [Sokora](/bots/sokora/README.md) (formerly Nebula) - *online*
 <br>

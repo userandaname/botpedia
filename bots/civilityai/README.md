@@ -1,6 +1,3 @@
-Got it! Here's the revised documentation for **CivilityAI**, matching the original style you provided:
-
----
 
 # [Botpedia](/README.md) - [CivilityAI](/bots/civilityai/README.md)
 

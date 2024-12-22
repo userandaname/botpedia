@@ -1,0 +1,38 @@
+input: ./
+output: .retype
+url: botpedia.zayaanar.me
+
+branding:
+  logo: /static/images/userandaname.png
+  logoDark: /static/images/userandaname.png
+  label: Docs
+
+meta:
+  title: "Botpedia"
+
+generator:
+  paths: root
+
+edit:
+  repo: github.com/userandaname/botpedia
+
+links:
+  - text: Pull Requests
+    link: https://github.com/userandaname/botpedia/pulls
+    icon: comment-discussion
+    target: blank
+
+data:
+  abbreviations:
+    HTML: Hyper Text Markup Language
+    CSS: Cascading Style Sheet
+
+footer:
+  links:
+    - text: About
+      link: about.md
+      icon: question
+
+    - text: License
+      link: license.md
+      icon: shield-check

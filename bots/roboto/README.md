@@ -32,5 +32,4 @@ On the 12th of November 2024, a developer under the name of [Zayaan AR](/develop
 When questioned about whether one of his other groups would stay active, that being [Codewave](/groups/codewave/README.md), he officially replied with: `Unfortunalety, yes`, indicating that Codewave services would also no longer be maintained.
 
 ## Summary
-
 This bot has been offically classified on [Botpedia](/README.md) as `permanently shutdown`, as [RoboticRobot](/developers/roboticrobot/README.md) has offically stated that the bot has been shutdown. This classification will stay as-is, as there is no more evidence required in order to change the classification of this bot, unless the bot does get revived.

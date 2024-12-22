@@ -29,115 +29,115 @@ Dave has been rebranded entirely to [AmSeif](/bots/amseif/README.md), likely mea
 `project bot` - the bot is likely a one-time project and wasn't meant to be used
 
 ## Bot Index (56)
-[AIM-120C](/bots/AIM-120C/README.md) - *offline, was a project bot*
+[AIM-120C](/bots/aim-120c/README.md) - *offline, was a project bot*
 <br>
-[Allu](/bots/Allu/README.md) (formerly Nexus) - *temporarily shutdown, potential revive?*
+[Allu](/bots/allu/README.md) (formerly Nexus) - *temporarily shutdown, potential revive?*
 <br>
-[Allu Beta](/bots/Allu%20Beta/README.md) - *unknown, likely deleted*
+[Allu+](/bots/allu+/README.md) - *deleted*
 <br>
-[Allu+](/bots/Allu+/README.md) - *deleted*
+[Allu Beta](/bots/allubeta/README.md) - *unknown*
 <br>
-[AlluGPT](/bots/AlluGPT/README.md) - *deleted*
+[AlluGPT](/bots/allugpt/README.md) - *deleted*
 <br>
-[AmSeif](/bots/AmSeif/README.md) (formerly Dave) - *unknown, likely privated*
+[AmSeif](/bots/amseif/README.md) (formerly Dave) - *unknown, likely privated*
 <br>
-[Anti-Hoisting](/bots/Anti-Hoisting/README.md) - *permanently shutdown*
+[Anti-Hoisting](/bots/anti-hoisting/README.md) - *permanently shutdown*
 <br>
-[Atom](/bots/Atom/README.md) - *online*
+[Atom](/bots/atom/README.md) - *online*
 <br>
-[Atom Developer](/bots/Atom%20Developer/README.md) - *online, development usage*
+[Atom Developer](/bots/atomdeveloper/README.md) - *online, development usage*
 <br>
-[Atom Status](/bots/Atom%20Status/README.md) - *online, internal usage only* - ***wiki page complete***
+[Atom Status](/bots/atomstatus/README.md) - *online, internal usage only* - ***wiki page complete***
 <br>
-[Autonomous](/bots/Autonomous/README.md) - *unknown, permanently shutdown*
+[Autonomous](/bots/autonomous/README.md) - *unknown, permanently shutdown*
 <br>
-[Bot in Gleam](/bots/Bot%20in%20Gleam/README.md) - *offline, maintained, likely a project bot* - ***wiki page complete***
+[Bot in Gleam](/bots/botingleam/README.md) - *offline, maintained, likely a project bot* - ***wiki page complete***
 <br>
-[CivilityAI](/bots/CivilityAI/README.md) - *online* - ***wiki page complete***
+[CivilityAI](/bots/civilityai/README.md) - *online* - ***wiki page complete***
 <br>
-[Codewave Utilities](/bots/Codewave%20Utilities/README.md) - *permanently shutdown, internal usage only*
+[Codewave Utilities](/bots/codewaveutilities/README.md) - *permanently shutdown, internal usage only*
 <br>
-[Cookie Clicker](/bots/Cookie%20Clicker/README.md) - *permanently shutdown*
+[CookieBot](/bots/cookiebot/README.md) - *offline, likely a project bot*
 <br>
-[Cookie Monster](/bots/Cookie%20Monster/README.md) - *online*
+[Cookie Clicker](/bots/cookieclicker/README.md) - *permanently shutdown*
 <br>
-[CookieBot](/bots/CookieBot/README.md) - *offline, likely a project bot*
+[Cookie Monster](/bots/cookiemonster/README.md) - *online*
 <br>
-[Corge](/bots/Corge/README.md) (formerly Mitch) - *privated*
+[Corge](/bots/corge/README.md) (formerly Mitch) - *privated*
 <br>
-[Dennis HCR2 Bot](/bots/Dennis%20HCR2%20Bot/README.md) - *unknown, internal usage only*
+[Dennis HCR2 Bot](/bots/dennishcr2bot/README.md) - *unknown, internal usage only*
 <br>
-[Dynamites Bot](/bots/Dynamites%20Bot/README.md) - *unknown, internal usage only*
+[Dynamites Bot](/bots/dynamitesbot/README.md) - *unknown, internal usage only*
 <br>
-[Epic-Bot](/bots/Epic-Bot/README.md) - *online*
+[Epic-Bot](/bots/epic-bot/README.md) - *online*
 <br>
-[EuroDex](/bots/EuroDex/README.md) - *offline, likely a project bot*
+[EuroDex](/bots/eurodex/README.md) - *offline, likely a project bot*
 <br>
 [famb](/bots/famb/README.md) - *permanently shutdown*
 <br>
 [fmb](/bots/fmb/README.md) - *permanently shutdown*
 <br>
-[fmb beta](/bots/fmb%20beta/README.md) - *permanently shutdown, development usage*
+[fmb beta](/bots/fmbbeta/README.md) - *permanently shutdown, development usage*
 <br>
-[Garply](/bots/Garply/README.md) (formerly Alex) - *deleted*
+[Garply](/bots/garply/README.md) (formerly Alex) - *deleted*
 <br>
-[HCR2 Calculator](/bots/HCR2%20Calculator/README.md) - *unknown, likely privated*
+[HCR2 Calculator](/bots/hcr2calculator/README.md) - *unknown, likely privated*
 <br>
-[Hellshitter](/bots/Hellshitter/README.md) - *offline, was a project bot*
+[Hellshitter](/bots/hellshitter/README.md) - *offline, was a project bot*
 <br>
 [iakz](/bots/iakz/README.md) - *online*
 <br>
-[Intelligence](/bots/Intelligence/README.md) - *permanently shutdown*
+[Intelligence](/bots/intelligence/README.md) - *permanently shutdown*
 <br>
-[IsabeDev](/bots/IsabeDev/README.md) - *online, development usage*
+[IsabeDev](/bots/isabedev/README.md) - *online, development usage*
 <br>
-[Isabella](/bots/Isabella/README.md) - *online*
+[Isabella](/bots/isabella/README.md) - *online*
 <br>
 [kb](/bots/kb/README.md) - *temporarily shutdown*
 <br>
-[Lapis](/bots/Lapis/README.md) - *online*
+[Lapis](/bots/lapis/README.md) - *online*
 <br>
-[Lapis Testing](/bots/Lapis%20Testing/README.md) - *online, development usage*
+[Lapis Testing](/bots/lapistesting/README.md) - *online, development usage*
 <br>
-[Minigames](/bots/Minigames/README.md) - *permanently shutdown*
+[Minigames](/bots/minigames/README.md) - *permanently shutdown*
 <br>
-[Morae](/bots/Morae/README.md) - *offline, a project bot*
+[Morae](/bots/morae/README.md) - *offline, a project bot*
 <br>
-[Nebula Canary](/bots/Nebula%20Canary/README.md) - *deleted, development usage*
+[Nebula Canary](/bots/nebulacanary/README.md) - *deleted, development usage*
 <br>
-[Nebula Preview](/bots/Nebula%20Preview/README.md) - *deleted, development usage*
+[Nebula Preview](/bots/nebulapreview/README.md) - *deleted, development usage*
 <br>
-[Ocean](/bots/Ocean/README.md) - *permanently shutdown*
+[Ocean](/bots/ocean/README.md) - *permanently shutdown*
 <br>
-[PestDeterrent](/bots/PestDeterrent/README.md) - *offline, was a project bot*
+[PestDeterrent](/bots/pestdeterrent/README.md) - *offline, was a project bot*
 <br>
-[PotatoBeta](/bots/PotatoBeta/README.md) - *online, development usage*
+[PotatoBeta](/bots/potatobeta/README.md) - *online, development usage*
 <br>
-[PotatoBot](/bots/PotatoBot/README.md) - *online*
+[PotatoBot](/bots/potatobot/README.md) - *online*
 <br>
-[PotatoBot - Lite](/bots/PotatoBot%20-%20Lite/README.md) - *online, unmaintained*
+[PotatoBot - Lite](/bots/potatobot-lite/README.md) - *online, unmaintained*
 <br>
-[PotatoButSomeRandoHasToken](/bots/PotatoButSomeRandoHasToken/README.md) - *offline, likely a parent of [PotatoBot](/bots/PotatoBot/)*
+[PotatoButSomeRandoHasToken](/bots/potatobutsomerandohastoken/README.md) - *offline, likely a parent of [PotatoBot](/bots/potatobot/)*
 <br>
-[PotatoDev](/bots/PotatoDev/README.md) - *online, development usage*
+[PotatoDev](/bots/potatodev/README.md) - *online, development usage*
 <br>
-[Quark](/bots/Quark/README.md) - *online*
+[Quark](/bots/quark/README.md) - *online*
 <br>
-[ReBot](/bots/ReBot/README.md) - *permanently shutdown*
+[ReBot](/bots/rebot/README.md) - *permanently shutdown*
 <br>
-[Roboto](/bots/Roboto/README.md) - *permanently shutdown* - ***wiki page complete***
+[Roboto](/bots/roboto/README.md) - *permanently shutdown* - ***wiki page complete***
 <br>
-[RSS Feed](/bots/RSS%20Feed/README.md) - *temporarily offline, reason is unknown*
+[RSS Feed](/bots/rssfeed/README.md) - *temporarily offline, reason is unknown*
 <br>
-[Scorpion](/bots/Scorpion/README.md) - *privated*
+[Scorpion](/bots/scorpion/README.md) - *privated*
 <br>
-[Securer](/bots/Securer/README.md) - *permanently shutdown*
+[Securer](/bots/securer/README.md) - *permanently shutdown*
 <br>
-[Seif HCR2 Python Bot](/bots/Seif%20HCR2%20Python%20Bot/README.md) - *unknown, likely deleted* - ***wiki page complete***
+[Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md) - *unknown, likely deleted* - ***wiki page complete***
 <br>
-[Sokora](/bots/Sokora/README.md) (formerly Nebula) - *online*
+[Sokora](/bots/sokora/README.md) (formerly Nebula) - *online*
 <br>
-[The Government](/bots/The%20Government/README.md) - *offline, likely a project bot*
+[The Government](/bots/thegovernment/README.md) - *offline, likely a project bot*
 <br>
-[TicTacToe](/bots/TicTacToe/README.md) - *permanently shutdown*
+[TicTacToe](/bots/tictactoe/README.md) - *permanently shutdown*
 <br>

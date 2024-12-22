@@ -1,12 +1,13 @@
-# [Botpedia](/README.md) - [Seif HCR2 Python Bot](/bots/Seif%20HCR2%20Python%20Bot/README.md)
+# [Botpedia](/README.md) - [Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md)
 
 ## Introduction
-[Seif HCR2 Python Bot](/bots/Seif%20HCR2%20Python%20Bot/README.md) was a bot made by [Seif](/developers/Seif/README.md), an infamous Discord bot developer, who has made quite a lot of bots themselves.
+[Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md) was a bot made by [Seif](/developers/seif/README.md), an infamous Discord bot developer, who has made quite a lot of bots themselves.
 
 The bot's purpose is unclear, but it is likely something to do with the infamous game of `Hill Climb Racing 2 (HCR2)`, which is likely where the name stemmed from.
 
 ## Source Leak
-On the 26th of August 2024, a (now deleted) source code leak of [Seif HCR2 Python Bot](/bots/Seif%20HCR2%20Python%20Bot/README.md) was spotted within a Discord server under the name of `Dires Hosting`, and was spotted by a developer under the name of [Zayaan AR](/developers/Zayaan%20AR/README.md) in the `general-chat` channel of the server.
+
+On the 26th of August 2024, a (now deleted) source code leak of [Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md) was spotted within a Discord server under the name of `Dires Hosting`, and was spotted by a developer under the name of [Zayaan AR](/developers/zayaanar/README.md) in the `general-chat` channel of the server.
 
 The source code aforementioned is displayed here:
 
@@ -50,4 +51,5 @@ async def timeout(ctx, member: discord.Member, minutes: int, *, reason: str = "N
 The source code leak led to the discovery of this bot as a whole, and contains valuable information, like the profile picture of the bot, the name of the bot, along with other vital details about what the bot was like when it was in use.
 
 ## Summary
-Speculation has lead to this bot offically being classified on [Botpedia](/README.md) as `unknown, likely deleted`, due to the fact that we are unable to find any userIDs linked to this bot, and that [Seif](/developers/Seif/README.md) hasn't commented on the situation, and until we recieve an update on this, the classification of this bot will stay as is.
+
+Speculation has lead to this bot offically being classified on [Botpedia](/README.md) as `unknown, likely deleted`, due to the fact that we are unable to find any userIDs linked to this bot, and that [Seif](/developers/seif/README.md) hasn't commented on the situation, and until we recieve an update on this, the classification of this bot will stay as is.

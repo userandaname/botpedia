@@ -1,9 +1,9 @@
-# [Botpedia](/README.md) - [Bot in Gleam](/bots/Bot%20in%20Gleam/README.md)
+# [Botpedia](/README.md) - [Bot in Gleam](/bots/botingleam/README.md)
 
 ## Introduction
-[Bot in Gleam](/bots/Bot%20in%20Gleam/README.md) was a bot made by [Cyteon](/developers/Cyteon/README.md), which was programmed in the programming language of Gleam, which is where the name likely originated from.
+[Bot in Gleam](/bots/botingleam/README.md) was a bot made by [Cyteon](/developers/cyteon/README.md), which was programmed in the programming language of Gleam, which is where the name likely originated from.
 
-The bot used [Cyteon](/developers/Cyteon/README.md)'s own DiscordAPI wrapper for interacting with the DiscordAPI in Gleam, as shown in [this GitHub repo of his](https://github.com/cyteon/discord_gleam).
+The bot used [Cyteon](/developers/cyteon/README.md)'s own DiscordAPI wrapper for interacting with the DiscordAPI in Gleam, as shown in [this GitHub repo of his](https://github.com/cyteon/discord_gleam).
 
 The bot doesn't contain much, with no About Me, and just a profile picture of the Gleam icon.
 

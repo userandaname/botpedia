@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   publish:
-    name: Build Retype site
+    name: Build Retype Site
     runs-on: ubuntu-latest
     permissions:
       contents: write

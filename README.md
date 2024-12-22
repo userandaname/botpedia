@@ -73,11 +73,11 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 <br>
 [EuroDex](/bots/eurodex/README.md) - *offline, likely a project bot*
 <br>
-[famb](/bots/famb/README.md) - *unknown, likely permanently shutdown*
+[famb](/bots/famb/README.md) - *permanently shutdown*
 <br>
-[fmb](/bots/fmb/README.md) - *unknown, likely permanently shutdown*
+[fmb](/bots/fmb/README.md) - *permanently shutdown*
 <br>
-[fmb beta](/bots/fmbbeta/README.md) - *unknown, likely permanently shutdown, development usage*
+[fmb beta](/bots/fmbbeta/README.md) - *permanently shutdown, development usage*
 <br>
 [Garply](/bots/garply/README.md) (formerly Alex) - *deleted*
 <br>
@@ -93,7 +93,7 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 <br>
 [Isabella](/bots/isabella/README.md) - *online*
 <br>
-[kb](/bots/kb/README.md) - *offline, likely permanently shutdown*
+[kb](/bots/kb/README.md) - *temporarily shutdown*
 <br>
 [Lapis](/bots/lapis/README.md) - *online*
 <br>

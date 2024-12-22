@@ -28,7 +28,7 @@ Dave has been rebranded entirely to [AmSeif](/bots/amseif/README.md), likely mea
 <br>
 `project bot` - the bot is likely a one-time project and wasn't meant to be used
 
-## Bot Index (55)
+## Bot Index (56)
 [AIM-120C](/bots/aim-120c/README.md) - *offline, was a project bot*
 <br>
 [Allu](/bots/allu/README.md) (formerly Nexus) - *temporarily shutdown, potential revive?*
@@ -96,6 +96,8 @@ Dave has been rebranded entirely to [AmSeif](/bots/amseif/README.md), likely mea
 [kb](/bots/kb/README.md) - *temporarily shutdown*
 <br>
 [Lapis](/bots/lapis/README.md) - *online*
+<br>
+[Lapis Testing](/bots/lapistesting/README.md) - *online, development usage*
 <br>
 [Minigames](/bots/minigames/README.md) - *permanently shutdown*
 <br>

@@ -1,7 +1,7 @@
 # [Botpedia](/README.md) - [Roboto](/bots/roboto/README.md)
 
 ## Introduction
-[Roboto](/bots/roboto/README.md) was a bot made by the group of [RobotoDevelopment](/groups/robotodevelopment/README.md), however, the main contributors to the bot were [RoboticRobot](/developers/roboticrobot/README.md), as well as [Adelto](/developers/adelto/README.md), as shown within the bot's About Me.
+[Roboto](/bots/roboto/README.md) was a bot made by the group of [Roboto Development](/groups/robotodevelopment/README.md), however, the main contributors to the bot were [RoboticRobot](/developers/roboticrobot/README.md), as well as [Adelto](/developers/adelto/README.md), as shown within the bot's About Me.
 
 The bot was a multi-purpose bot, ranging with features like jokes, moderation, anti-nuke, fun facts, and other miscellaneous features, and used `discord.js` to interact with the DiscordAPI.
 

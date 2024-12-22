@@ -47,7 +47,7 @@ Dave has been rebranded entirely to [AmSeif](/bots/amseif/README.md), likely mea
 <br>
 [Atom Developer](/bots/atomdeveloper/README.md) - *online, development usage*
 <br>
-[Atom Status](/bots/atomstatus/README.md) - *online, internal usage only*
+[Atom Status](/bots/atomstatus/README.md) - *online, internal usage only* - ***wiki page complete***
 <br>
 [Autonomous](/bots/autonomous/README.md) - *unknown, permanently shutdown*
 <br>

@@ -125,7 +125,7 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 <br>
 [Roboto](/bots/roboto/README.md) - *permanently shutdown*
 <br>
-[RSS Feed](/bots/rssfeed/README.md) - *online*
+[RSS Feed](/bots/rssfeed/README.md) - *temporarily offline, reason is unknown*
 <br>
 [Scorpion](/bots/scorpion/README.md) - *privated*
 <br>

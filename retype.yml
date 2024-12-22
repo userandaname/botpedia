@@ -5,7 +5,7 @@ url: botpedia.zayaanar.me
 branding:
   logo: /static/images/userandaname.png
   logoDark: /static/images/userandaname.png
-  label: Docs
+  label: Botpedia
 
 meta:
   title: "Botpedia"

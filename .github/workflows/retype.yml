@@ -1,4 +1,4 @@
-name: Retype -> GitHub Pages
+name: Retype Action
 on:
   workflow_dispatch:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   publish:
-    name: Convert to HTML for the retype branch
+    name: Build Retype site
     runs-on: ubuntu-latest
     permissions:
       contents: write

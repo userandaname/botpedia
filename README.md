@@ -28,7 +28,7 @@ privated - the bot is a private bot and cannot be authorized for public use
 <br>
 project bot - the bot is likely a one-time project and wasn't meant to be used
 
-## Bot Index (54)
+## Bot Index (55)
 [AIM-120C](/bots/aim-120c/README.md) - *offline, was a project bot*
 <br>
 [Allu](/bots/allu/README.md) (formerly Nexus) - *temporarily shutdown, potential revive?*
@@ -120,6 +120,8 @@ project bot - the bot is likely a one-time project and wasn't meant to be used
 [PotatoDev](/bots/potatodev/README.md) - *online, development usage*
 <br>
 [Quark](/bots/quark/README.md) - *online*
+<br>
+[ReBot](/bots/rebot/README.md) - *permanently shutdown*
 <br>
 [Roboto](/bots/roboto/README.md) - *permanently shutdown*
 <br>

@@ -34,5 +34,5 @@ footer:
       icon: question
 
     - text: License
-      link: LICENSE
+      link: LICENSE.md
       icon: shield-check

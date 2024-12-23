@@ -1,4 +1,4 @@
-# [Botpedia](/README.md) - [CivilityAI](/bots/civilityai/README.md)
+# [CivilityAI](/bots/civilityai/README.md)
 
 ## Introduction
 [CivilityAI](/bots/civilityai/README.md) is an AI image generation bot created by [Skycodee](/developers/skycodee/README.md). The bot focuses on creating stunning, high-quality images through the use of advanced AI technology. As highlighted in its About Me, CivilityAI is built for those who want to bring their imaginations to life effortlessly.  

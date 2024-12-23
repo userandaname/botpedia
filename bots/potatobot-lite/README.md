@@ -1,0 +1,1 @@
+# [PotatoBot - Lite](/bots/potatobot-lite/README.md)

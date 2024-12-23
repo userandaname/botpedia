@@ -1,0 +1,1 @@
+# [Cookie Clicker](/bots/cookieclicker/README.md)

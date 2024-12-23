@@ -1,0 +1,1 @@
+# [HCR2 Calculator](/bots/hcr2calculator/README.md)

@@ -1,0 +1,1 @@
+# [Minigames](/bots/minigames/README.md)

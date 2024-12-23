@@ -1,4 +1,4 @@
-# [Botpedia](/README.md) - [Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md)
+# [Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md)
 
 ## Introduction
 [Seif HCR2 Python Bot](/bots/seifhcr2pythonbot/README.md) was a bot made by [Seif](/developers/seif/README.md), an infamous Discord bot developer, who has made quite a lot of bots themselves.

@@ -1,4 +1,4 @@
-# [Botpedia](/README.md) - [Bot in Gleam](/bots/botingleam/README.md)
+# [Bot in Gleam](/bots/botingleam/README.md)
 
 ## Introduction
 [Bot in Gleam](/bots/botingleam/README.md) was a bot made by [Cyteon](/developers/cyteon/README.md), which was programmed in the programming language of Gleam, which is where the name likely originated from.
